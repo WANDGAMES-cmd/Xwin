@@ -1,0 +1,5 @@
+Xwin uses GNU GRUB 2 as its bootloader.
+
+GNU GRUB 2 is licensed under the GNU General Public License v3.0 (GPLv3).
+
+GNU GPLv3: https://www.gnu.org/licenses/gpl-3.0.html
