@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  
+  <rect width="256" height="256" rx="54" fill="#0b111e"/>
+  
+  <g transform="translate(48, 48)">
+    <path d="M 0,0 L 43,0 L 160,160 L 117,160 Z" fill="#e63946" />
+    <path d="M 160,0 L 117,0 L 0,160 L 43,160 Z" fill="#d90429" />
+  </g>
+  
+  <path d="M 110,128 L 128,110 L 146,128 L 128,146 Z" fill="#ff4d6d" opacity="0.8"/>
+</svg>
+
+
+
